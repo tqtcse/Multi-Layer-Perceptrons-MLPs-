@@ -2,22 +2,22 @@
 
 ## Introduction
 
-This project aims to develop data structures and utilize them to create applications focused on neural networks and deep learning. The project is divided into three main phases, each building upon the previous one to ensure continuity and integration.
+This project is dedicated to creating and utilizing data structures to build applications focused on neural networks and deep learning. The development process is divided into three sequential phases, each enhancing the functionality and ensuring a cohesive integration of components.
 
-## Objectives and Tasks
+## Objectives
 
 ### Phase 1: List Data Structures and Multi-Layer Perceptron (MLP)
-- **Develop List Data Structures**: Implement array-based and linked list data structures (XArrayList and DLinkedList).
-- **Utilize xtensor Library**: Perform various tasks on multi-dimensional arrays (tensors) using the xtensor library.
-- **Build MLP Library**: Create a library of classes to help users develop and use multi-layer perceptron (MLP) neural networks.
+- **Develop List Data Structures**: Design array-based and linked list implementations (XArrayList and DLinkedList).
+- **Utilize xtensor Library**: Perform tensor operations on multi-dimensional arrays with the xtensor library.
+- **Build MLP Library**: Develop a library of classes to construct and manage multi-layer perceptron neural networks.
 
-### Phase 2: Hash-Table and Heap Data Structures
-- **Develop Hash-Table and Heap**: Implement hash-table and heap data structures (XHashMap and Heap).
-- **Support Neural Network Training**: Use these data structures to facilitate the training of neural networks.
+### Phase 2: Hash Tables and Heaps
+- **Develop Hash-Table and Heap**: Implement hash tables and heaps (XHashMap and Heap) for efficient data management.
+- **Support Neural Network Training**: Use these structures to support and improve training processes.
 
-### Phase 3: Graph Data Structures and Computational Graphs
-- **Develop Graph Data Structures**: Implement directed graph data structures and algorithms.
-- **Build Computational Graph Library**: Use graph data structures to create a computational graph library for deep learning applications.
+### Phase 3: Graphs and Computational Graphs
+- **Develop Graph Data Structures**: Implement directed graph data structures and algorithms for data modeling.
+- **Build Computational Graph Library**: Create a library to handle computational graphs, supporting advanced deep learning workflows.
 
 ## Methodology
 
@@ -36,11 +36,6 @@ Upon completion, the project will enable:
 - Development of list data structures in both array-based and linked list forms.
 - Application of lists to develop a multi-layer perceptron (MLP) neural network library.
 
-## Version History
-
-- **09/09/2024**: Version 1.0 released.
-
----
 
 **End of Document**
 
